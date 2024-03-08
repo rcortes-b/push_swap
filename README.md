@@ -1,7 +1,7 @@
 <h1 align="center">
 <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png" alt="Push_swap 42 project badge"/>
 <br>push_swap</h1>
-<h3>◦ An efficient sorting alhorithm using 2 stacks </h3>
+<h3>◦ An efficient sorting algorithm using 2 stacks </h3>
 
 ---
 
